@@ -4,7 +4,7 @@ Systems, performance, and ML infrastructure.
 
 Hedge-fund quant engineering and frontier-lab GPU / systems roles.
 
-## Pinned (target)
+## Pinned
 
 1. [cpp-limit-order-book](https://github.com/taiyuz/cpp-limit-order-book)  
    C++ · Systems · Performance · Trading  
@@ -26,4 +26,4 @@ Hedge-fund quant engineering and frontier-lab GPU / systems roles.
    Python · Statistics · Quantitative Finance  
    Strategy research with costs, walk-forward splits, and anti-overfitting checks.
 
-Flagships 1, 2, 4, and 5 are in progress. Pin these five on the profile (Customize pins).
+Pin these five on the profile (Customize pins).
