@@ -1,10 +1,5 @@
 # Taiyu Zhu
 
-Systems, performance, and ML infrastructure.
-
-Hedge-fund quant engineering and frontier-lab GPU / systems roles.
-
-## Pinned
 
 1. [cpp-limit-order-book](https://github.com/taiyuz/cpp-limit-order-book)  
    C++ · Systems · Performance · Trading  
@@ -26,4 +21,3 @@ Hedge-fund quant engineering and frontier-lab GPU / systems roles.
    Python · Statistics · Quantitative Finance  
    Strategy research with costs, walk-forward splits, and anti-overfitting checks.
 
-Pin these five on the profile (Customize pins).
