@@ -1,6 +1,6 @@
 # taiyuz
 
-Zhining Zhao. Systems, performance, and ML infrastructure.
+Systems, performance, and ML infrastructure.
 
 Hedge-fund quant engineering and frontier-lab GPU / systems roles.
 
