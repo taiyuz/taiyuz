@@ -1,23 +1,29 @@
 # taiyuz
 
-Zhining Zhao. Systems and performance: trading infrastructure, GPU inference, and low-level ML internals.
+Zhining Zhao. Systems, performance, and ML infrastructure.
 
-Targeting hedge-fund quant engineering (matching, latency, research tooling) and frontier-lab systems / GPU roles.
+Hedge-fund quant engineering and frontier-lab GPU / systems roles.
 
-## Flagship (in progress)
+## Pinned (target)
 
-- [cpp-limit-order-book](https://github.com/taiyuz/cpp-limit-order-book) — C++ matching engine: price-time priority, data-structure tradeoffs, benchmarks. Early.
-- [gpu-inference-benchmark](https://github.com/taiyuz/gpu-inference-benchmark) — PyTorch vs ONNX Runtime vs TensorRT: latency, throughput, memory. Early.
-- [quant-research-engine](https://github.com/taiyuz/quant-research-engine) — research loop for strategies, execution costs, and anti-overfitting checks. Early.
+1. [cpp-limit-order-book](https://github.com/taiyuz/cpp-limit-order-book)  
+   C++ · Systems · Performance · Trading  
+   Flagship systems project. Matching engine: price-time priority, data-structure tradeoffs, benchmarks.
 
-## Other work
+2. [gpu-inference-benchmark](https://github.com/taiyuz/gpu-inference-benchmark)  
+   CUDA · TensorRT · C++ · PyTorch  
+   Flagship ML systems project. PyTorch vs ONNX Runtime vs TensorRT: latency, throughput, memory.
 
-- [IDL4](https://github.com/taiyuz/IDL4) — CMU 11-785 HW4. From-scratch transformer pieces: NumPy multi-head attention, decoder-only LM, encoder-decoder ASR. Course assignment, not a product.
-- [smart-glasses-safety](https://github.com/taiyuz/smart-glasses-safety) — Android/Kotlin on-device camera pipeline: tracking, risk scoring, TTS alerts. MVP; detector is mocked.
-- [Authentication-and-ML](https://github.com/taiyuz/Authentication-and-ML) — iOS SwiftUI + Firebase Auth (Savor). App shell is real; most product UI and the Core ML recommender are incomplete.
-- [savourapp](https://github.com/taiyuz/savourapp) — earlier SwiftUI/SwiftData scaffold for the same idea.
-- [fish24](https://github.com/taiyuz/fish24) — HackCMU 2024. Empty repo; no source was pushed.
+3. [smart-glasses-safety](https://github.com/taiyuz/smart-glasses-safety)  
+   Kotlin · Computer Vision · Edge ML  
+   On-device camera pipeline: tracking, risk scoring, alerts.
 
-## Stack
+4. [savor-recommendation-system](https://github.com/taiyuz/savor-recommendation-system)  
+   Python · Backend · Recommendation Systems  
+   Retrieval, ranking, and serving for Savor.
 
-C++23 · systems · CUDA / TensorRT · Python for research and autograd internals · Kotlin / CameraX · Swift / SwiftUI
+5. [quant-research-engine](https://github.com/taiyuz/quant-research-engine)  
+   Python · Statistics · Quantitative Finance  
+   Strategy research with costs, walk-forward splits, and anti-overfitting checks.
+
+Flagships 1, 2, 4, and 5 are in progress. Pin these five on the profile (Customize pins).
